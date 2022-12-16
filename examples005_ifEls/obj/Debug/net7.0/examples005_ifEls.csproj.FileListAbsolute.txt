@@ -1,0 +1,15 @@
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/examples005_ifEls/bin/Debug/net7.0/examples005_ifEls
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/examples005_ifEls/bin/Debug/net7.0/examples005_ifEls.deps.json
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/examples005_ifEls/bin/Debug/net7.0/examples005_ifEls.runtimeconfig.json
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/examples005_ifEls/bin/Debug/net7.0/examples005_ifEls.dll
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/examples005_ifEls/bin/Debug/net7.0/examples005_ifEls.pdb
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/examples005_ifEls/obj/Debug/net7.0/examples005_ifEls.csproj.AssemblyReference.cache
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/examples005_ifEls/obj/Debug/net7.0/examples005_ifEls.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/examples005_ifEls/obj/Debug/net7.0/examples005_ifEls.AssemblyInfoInputs.cache
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/examples005_ifEls/obj/Debug/net7.0/examples005_ifEls.AssemblyInfo.cs
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/examples005_ifEls/obj/Debug/net7.0/examples005_ifEls.csproj.CoreCompileInputs.cache
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/examples005_ifEls/obj/Debug/net7.0/examples005_ifEls.dll
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/examples005_ifEls/obj/Debug/net7.0/refint/examples005_ifEls.dll
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/examples005_ifEls/obj/Debug/net7.0/examples005_ifEls.pdb
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/examples005_ifEls/obj/Debug/net7.0/examples005_ifEls.genruntimeconfig.cache
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/examples005_ifEls/obj/Debug/net7.0/ref/examples005_ifEls.dll
