@@ -1,0 +1,15 @@
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/Examples007_While/obj/Debug/net7.0/Examples007_While.csproj.AssemblyReference.cache
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/Examples007_While/obj/Debug/net7.0/Examples007_While.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/Examples007_While/obj/Debug/net7.0/Examples007_While.AssemblyInfoInputs.cache
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/Examples007_While/obj/Debug/net7.0/Examples007_While.AssemblyInfo.cs
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/Examples007_While/obj/Debug/net7.0/Examples007_While.csproj.CoreCompileInputs.cache
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/Examples007_While/bin/Debug/net7.0/Examples007_While
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/Examples007_While/bin/Debug/net7.0/Examples007_While.deps.json
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/Examples007_While/bin/Debug/net7.0/Examples007_While.runtimeconfig.json
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/Examples007_While/bin/Debug/net7.0/Examples007_While.dll
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/Examples007_While/bin/Debug/net7.0/Examples007_While.pdb
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/Examples007_While/obj/Debug/net7.0/Examples007_While.dll
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/Examples007_While/obj/Debug/net7.0/refint/Examples007_While.dll
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/Examples007_While/obj/Debug/net7.0/Examples007_While.pdb
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/Examples007_While/obj/Debug/net7.0/Examples007_While.genruntimeconfig.cache
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/Examples007_While/obj/Debug/net7.0/ref/Examples007_While.dll
