@@ -1,0 +1,15 @@
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/Examples004_div/bin/Debug/net7.0/Examples004_div
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/Examples004_div/bin/Debug/net7.0/Examples004_div.deps.json
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/Examples004_div/bin/Debug/net7.0/Examples004_div.runtimeconfig.json
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/Examples004_div/bin/Debug/net7.0/Examples004_div.dll
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/Examples004_div/bin/Debug/net7.0/Examples004_div.pdb
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/Examples004_div/obj/Debug/net7.0/Examples004_div.csproj.AssemblyReference.cache
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/Examples004_div/obj/Debug/net7.0/Examples004_div.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/Examples004_div/obj/Debug/net7.0/Examples004_div.AssemblyInfoInputs.cache
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/Examples004_div/obj/Debug/net7.0/Examples004_div.AssemblyInfo.cs
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/Examples004_div/obj/Debug/net7.0/Examples004_div.csproj.CoreCompileInputs.cache
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/Examples004_div/obj/Debug/net7.0/Examples004_div.dll
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/Examples004_div/obj/Debug/net7.0/refint/Examples004_div.dll
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/Examples004_div/obj/Debug/net7.0/Examples004_div.pdb
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/Examples004_div/obj/Debug/net7.0/Examples004_div.genruntimeconfig.cache
+/Users/aleksejveresagin/Desktop/lessons IT/Examples/Examples004_div/obj/Debug/net7.0/ref/Examples004_div.dll
